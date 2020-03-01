@@ -1,0 +1,28 @@
+{
+  "name": "zettai-ts",
+  "version": "0.1.0",
+  "description": "Parse anime filenames with pure TS/JS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zettai",
+    "zettai-ts",
+    "parser",
+    "typescript",
+    "anime"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoogiePunk/zettai-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BoogiePunk/zettai-ts/issues"
+  },
+  "homepage": "https://github.com/BoogiePunk/zettai-ts#readme",
+  "author": "boogie-punk",
+  "license": "MIT"
+}
